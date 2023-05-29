@@ -1,0 +1,159 @@
+D:\CSDL Win\QuanLiNhaXe\bin\Debug\QuanLiNhaXe.exe.config
+D:\CSDL Win\QuanLiNhaXe\bin\Debug\QuanLiNhaXe.exe
+D:\CSDL Win\QuanLiNhaXe\bin\Debug\QuanLiNhaXe.pdb
+D:\CSDL Win\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.csproj.AssemblyReference.cache
+D:\CSDL Win\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.AddThongTin.resources
+D:\CSDL Win\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.ChucNang.resources
+D:\CSDL Win\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.Form1.resources
+D:\CSDL Win\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.Properties.Resources.resources
+D:\CSDL Win\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.csproj.GenerateResource.cache
+D:\CSDL Win\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.csproj.CoreCompileInputs.cache
+D:\CSDL Win\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.exe
+D:\CSDL Win\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.pdb
+D:\QuanLiNhaXe-20220329T165046Z-001\QuanLiNhaXe\bin\Debug\QuanLiNhaXe.exe.config
+D:\QuanLiNhaXe-20220329T165046Z-001\QuanLiNhaXe\bin\Debug\QuanLiNhaXe.exe
+D:\QuanLiNhaXe-20220329T165046Z-001\QuanLiNhaXe\bin\Debug\QuanLiNhaXe.pdb
+D:\QuanLiNhaXe-20220329T165046Z-001\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.csproj.AssemblyReference.cache
+D:\QuanLiNhaXe-20220329T165046Z-001\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.AddThongTin.resources
+D:\QuanLiNhaXe-20220329T165046Z-001\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.ChucNang.resources
+D:\QuanLiNhaXe-20220329T165046Z-001\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.Form1.resources
+D:\QuanLiNhaXe-20220329T165046Z-001\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.Properties.Resources.resources
+D:\QuanLiNhaXe-20220329T165046Z-001\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.csproj.GenerateResource.cache
+D:\QuanLiNhaXe-20220329T165046Z-001\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.csproj.CoreCompileInputs.cache
+D:\QuanLiNhaXe-20220329T165046Z-001\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.exe
+D:\QuanLiNhaXe-20220329T165046Z-001\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.pdb
+D:\QuanLiNhaXe-20220329T165046Z-001\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.DoiMatKhau.resources
+D:\QuanLiNhaXe-20220329T165046Z-001\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.BangGia.resources
+D:\QuanLiNhaXe-20220329T165046Z-001\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.BangGiaSua.resources
+D:\QuanLiNhaXe-20220329T165046Z-001\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.BangGiaThem.resources
+D:\QuanLiNhaXe-20220419T055608Z-001\QuanLiNhaXe\bin\Debug\QuanLiNhaXe.exe.config
+D:\QuanLiNhaXe-20220419T055608Z-001\QuanLiNhaXe\bin\Debug\QuanLiNhaXe.exe
+D:\QuanLiNhaXe-20220419T055608Z-001\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.csproj.AssemblyReference.cache
+D:\QuanLiNhaXe-20220419T055608Z-001\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.csproj.SuggestedBindingRedirects.cache
+D:\QuanLiNhaXe-20220419T055608Z-001\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.BangGia.resources
+D:\QuanLiNhaXe-20220419T055608Z-001\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.BangGiaSua.resources
+D:\QuanLiNhaXe-20220419T055608Z-001\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.BangGiaThem.resources
+D:\QuanLiNhaXe-20220419T055608Z-001\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.ChucNang.resources
+D:\QuanLiNhaXe-20220419T055608Z-001\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.DoiMatKhau.resources
+D:\QuanLiNhaXe-20220419T055608Z-001\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.Form1.resources
+D:\QuanLiNhaXe-20220419T055608Z-001\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.Properties.Resources.resources
+D:\QuanLiNhaXe-20220419T055608Z-001\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.ThongTinLuotMoi.resources
+D:\QuanLiNhaXe-20220419T055608Z-001\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.ThongTinNhanVien.resources
+D:\QuanLiNhaXe-20220419T055608Z-001\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.ThongTinXe.resources
+D:\QuanLiNhaXe-20220419T055608Z-001\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.csproj.GenerateResource.cache
+D:\QuanLiNhaXe-20220419T055608Z-001\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.csproj.CoreCompileInputs.cache
+D:\QuanLiNhaXe-20220419T055608Z-001\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.exe
+D:\QuanLiNhaXe-20220419T055608Z-001\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.pdb
+D:\QuanLiNhaXe-20220419T055608Z-001\QuanLiNhaXe\bin\Debug\QuanLiNhaXe.pdb
+D:\QuanLiNhaXe-20220419T055608Z-001\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.SuaThongTinXe.resources
+D:\QuanLiNhaXe-20220419T055608Z-001\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.CacHangXe.resources
+D:\QuanLiNhaXe-20220419T055608Z-001\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.QuanLyNhanVien.resources
+D:\Final-hqtcsdl\QuanLiNhaXe\bin\Debug\QuanLiNhaXe.exe.config
+D:\Final-hqtcsdl\QuanLiNhaXe\bin\Debug\QuanLiNhaXe.exe
+D:\Final-hqtcsdl\QuanLiNhaXe\bin\Debug\QuanLiNhaXe.pdb
+D:\Final-hqtcsdl\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.csproj.AssemblyReference.cache
+D:\Final-hqtcsdl\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.csproj.SuggestedBindingRedirects.cache
+D:\Final-hqtcsdl\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.BangGia.resources
+D:\Final-hqtcsdl\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.BangGiaSua.resources
+D:\Final-hqtcsdl\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.BangGiaThem.resources
+D:\Final-hqtcsdl\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.ChucNang.resources
+D:\Final-hqtcsdl\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.DoiMatKhau.resources
+D:\Final-hqtcsdl\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.Form1.resources
+D:\Final-hqtcsdl\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.Properties.Resources.resources
+D:\Final-hqtcsdl\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.QuanLyNhanVien.resources
+D:\Final-hqtcsdl\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.SuaThongTinXe.resources
+D:\Final-hqtcsdl\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.CacHangXe.resources
+D:\Final-hqtcsdl\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.ThongTinLuotMoi.resources
+D:\Final-hqtcsdl\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.ThongTinNhanVien.resources
+D:\Final-hqtcsdl\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.ThongTinXe.resources
+D:\Final-hqtcsdl\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.csproj.GenerateResource.cache
+D:\Final-hqtcsdl\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.csproj.CoreCompileInputs.cache
+D:\Final-hqtcsdl\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.exe
+D:\Final-hqtcsdl\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.pdb
+D:\Final-hqtcsdl2\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.csproj.AssemblyReference.cache
+D:\Final-hqtcsdl2\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.csproj.SuggestedBindingRedirects.cache
+D:\Final-hqtcsdl2\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.BangGia.resources
+D:\Final-hqtcsdl2\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.BangGiaSua.resources
+D:\Final-hqtcsdl2\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.BangGiaThem.resources
+D:\Final-hqtcsdl2\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.ChucNang.resources
+D:\Final-hqtcsdl2\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.DoiMatKhau.resources
+D:\Final-hqtcsdl2\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.Form1.resources
+D:\Final-hqtcsdl2\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.Properties.Resources.resources
+D:\Final-hqtcsdl2\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.QuanLyNhanVien.resources
+D:\Final-hqtcsdl2\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.SuaThongTinXe.resources
+D:\Final-hqtcsdl2\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.CacHangXe.resources
+D:\Final-hqtcsdl2\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.ThongTinLuotMoi.resources
+D:\Final-hqtcsdl2\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.ThongTinNhanVien.resources
+D:\Final-hqtcsdl2\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.ThongTinXe.resources
+D:\Final-hqtcsdl2\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.csproj.GenerateResource.cache
+D:\Final-hqtcsdl2\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.csproj.CoreCompileInputs.cache
+D:\Final-hqtcsdl2\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.exe
+D:\Final-hqtcsdl2\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.pdb
+D:\Final-hqtcsdl2\QuanLiNhaXe\bin\Debug\QuanLiNhaXe.exe.config
+D:\Final-hqtcsdl2\QuanLiNhaXe\bin\Debug\QuanLiNhaXe.exe
+D:\Final-hqtcsdl2\QuanLiNhaXe\bin\Debug\QuanLiNhaXe.pdb
+C:\Users\Administrator\Downloads\Final-hqtcsdl3\QuanLiNhaXe\bin\Debug\QuanLiNhaXe.exe.config
+C:\Users\Administrator\Downloads\Final-hqtcsdl3\QuanLiNhaXe\bin\Debug\QuanLiNhaXe.exe
+C:\Users\Administrator\Downloads\Final-hqtcsdl3\QuanLiNhaXe\bin\Debug\QuanLiNhaXe.pdb
+C:\Users\Administrator\Downloads\Final-hqtcsdl3\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\Final-hqtcsdl3\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.BangGia.resources
+C:\Users\Administrator\Downloads\Final-hqtcsdl3\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.BangGiaSua.resources
+C:\Users\Administrator\Downloads\Final-hqtcsdl3\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.BangGiaThem.resources
+C:\Users\Administrator\Downloads\Final-hqtcsdl3\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.ChucNang.resources
+C:\Users\Administrator\Downloads\Final-hqtcsdl3\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.DoiMatKhau.resources
+C:\Users\Administrator\Downloads\Final-hqtcsdl3\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.Form1.resources
+C:\Users\Administrator\Downloads\Final-hqtcsdl3\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.Properties.Resources.resources
+C:\Users\Administrator\Downloads\Final-hqtcsdl3\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.QuanLyNhanVien.resources
+C:\Users\Administrator\Downloads\Final-hqtcsdl3\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.SuaThongTinXe.resources
+C:\Users\Administrator\Downloads\Final-hqtcsdl3\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.CacHangXe.resources
+C:\Users\Administrator\Downloads\Final-hqtcsdl3\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.ThongTinLuotMoi.resources
+C:\Users\Administrator\Downloads\Final-hqtcsdl3\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.ThongTinNhanVien.resources
+C:\Users\Administrator\Downloads\Final-hqtcsdl3\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.ThongTinXe.resources
+C:\Users\Administrator\Downloads\Final-hqtcsdl3\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\Final-hqtcsdl3\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Final-hqtcsdl3\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.exe
+C:\Users\Administrator\Downloads\Final-hqtcsdl3\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.pdb
+C:\Users\KHOA\Downloads\QuanLiNhaXe-gg\QuanLiNhaXe\bin\Debug\QuanLiNhaXe.exe.config
+C:\Users\KHOA\Downloads\QuanLiNhaXe-gg\QuanLiNhaXe\bin\Debug\QuanLiNhaXe.exe
+C:\Users\KHOA\Downloads\QuanLiNhaXe-gg\QuanLiNhaXe\bin\Debug\QuanLiNhaXe.pdb
+C:\Users\KHOA\Downloads\QuanLiNhaXe-gg\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.csproj.AssemblyReference.cache
+C:\Users\KHOA\Downloads\QuanLiNhaXe-gg\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.csproj.SuggestedBindingRedirects.cache
+C:\Users\KHOA\Downloads\QuanLiNhaXe-gg\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.BangGia.resources
+C:\Users\KHOA\Downloads\QuanLiNhaXe-gg\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.BangGiaSua.resources
+C:\Users\KHOA\Downloads\QuanLiNhaXe-gg\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.BangGiaThem.resources
+C:\Users\KHOA\Downloads\QuanLiNhaXe-gg\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.ChucNang.resources
+C:\Users\KHOA\Downloads\QuanLiNhaXe-gg\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.DoiMatKhau.resources
+C:\Users\KHOA\Downloads\QuanLiNhaXe-gg\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.Form1.resources
+C:\Users\KHOA\Downloads\QuanLiNhaXe-gg\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.Properties.Resources.resources
+C:\Users\KHOA\Downloads\QuanLiNhaXe-gg\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.QuanLyNhanVien.resources
+C:\Users\KHOA\Downloads\QuanLiNhaXe-gg\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.SuaThongTinXe.resources
+C:\Users\KHOA\Downloads\QuanLiNhaXe-gg\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.CacHangXe.resources
+C:\Users\KHOA\Downloads\QuanLiNhaXe-gg\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.ThongTinLuotMoi.resources
+C:\Users\KHOA\Downloads\QuanLiNhaXe-gg\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.ThongTinNhanVien.resources
+C:\Users\KHOA\Downloads\QuanLiNhaXe-gg\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.ThongTinXe.resources
+C:\Users\KHOA\Downloads\QuanLiNhaXe-gg\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.csproj.GenerateResource.cache
+C:\Users\KHOA\Downloads\QuanLiNhaXe-gg\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.csproj.CoreCompileInputs.cache
+C:\Users\KHOA\Downloads\QuanLiNhaXe-gg\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.exe
+C:\Users\KHOA\Downloads\QuanLiNhaXe-gg\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.pdb
+C:\Users\KHOA\Downloads\QuanLiNhaXe-gg - Copy\QuanLiNhaXe\bin\Debug\QuanLiNhaXe.exe.config
+C:\Users\KHOA\Downloads\QuanLiNhaXe-gg - Copy\QuanLiNhaXe\bin\Debug\QuanLiNhaXe.exe
+C:\Users\KHOA\Downloads\QuanLiNhaXe-gg - Copy\QuanLiNhaXe\bin\Debug\QuanLiNhaXe.pdb
+C:\Users\KHOA\Downloads\QuanLiNhaXe-gg - Copy\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.csproj.AssemblyReference.cache
+C:\Users\KHOA\Downloads\QuanLiNhaXe-gg - Copy\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.csproj.SuggestedBindingRedirects.cache
+C:\Users\KHOA\Downloads\QuanLiNhaXe-gg - Copy\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.BangGia.resources
+C:\Users\KHOA\Downloads\QuanLiNhaXe-gg - Copy\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.BangGiaSua.resources
+C:\Users\KHOA\Downloads\QuanLiNhaXe-gg - Copy\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.BangGiaThem.resources
+C:\Users\KHOA\Downloads\QuanLiNhaXe-gg - Copy\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.ChucNang.resources
+C:\Users\KHOA\Downloads\QuanLiNhaXe-gg - Copy\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.DoiMatKhau.resources
+C:\Users\KHOA\Downloads\QuanLiNhaXe-gg - Copy\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.Form1.resources
+C:\Users\KHOA\Downloads\QuanLiNhaXe-gg - Copy\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.Properties.Resources.resources
+C:\Users\KHOA\Downloads\QuanLiNhaXe-gg - Copy\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.QuanLyNhanVien.resources
+C:\Users\KHOA\Downloads\QuanLiNhaXe-gg - Copy\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.SuaThongTinXe.resources
+C:\Users\KHOA\Downloads\QuanLiNhaXe-gg - Copy\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.CacHangXe.resources
+C:\Users\KHOA\Downloads\QuanLiNhaXe-gg - Copy\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.ThongTinLuotMoi.resources
+C:\Users\KHOA\Downloads\QuanLiNhaXe-gg - Copy\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.ThongTinNhanVien.resources
+C:\Users\KHOA\Downloads\QuanLiNhaXe-gg - Copy\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.ThongTinXe.resources
+C:\Users\KHOA\Downloads\QuanLiNhaXe-gg - Copy\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.csproj.GenerateResource.cache
+C:\Users\KHOA\Downloads\QuanLiNhaXe-gg - Copy\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.csproj.CoreCompileInputs.cache
+C:\Users\KHOA\Downloads\QuanLiNhaXe-gg - Copy\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.exe
+C:\Users\KHOA\Downloads\QuanLiNhaXe-gg - Copy\QuanLiNhaXe\obj\Debug\QuanLiNhaXe.pdb
